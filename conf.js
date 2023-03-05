@@ -23,7 +23,7 @@ jsproxy_config({
     'demo-sg': {
       label: '演示服务2-新加坡节点',
       lines: {
-        'node-aliyun-sg.etherdream.com:8443': 1,
+        'hideip.network:443': 1,
       },
     },
     'mysite': {
