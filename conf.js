@@ -21,7 +21,7 @@ jsproxy_config({
       }
     },
     'demo-sg': {
-      label: '演示服务2-新加坡节点',
+      label: '节点2',
       lines: {
         'hideip.network:443': 1,
       },
